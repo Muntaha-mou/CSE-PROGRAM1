@@ -10,8 +10,9 @@ circumference=2*PI*radius;
 area=PI*radius*radius;
 printf("Diameter:%.2f\n",diameter);
 printf("Circumference:%.2f\n",circumference);
-printf("Area:%.2f\n",arean);
+printf("Area:%.2f\n",area);
 return 0;
 
 }
+
 
